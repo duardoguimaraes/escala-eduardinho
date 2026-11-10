@@ -26,7 +26,7 @@ O diferencial é a inclusão da escala Eduardinho, com parâmetros próprios, in
 
 ## Vídeo demonstrativo
 
-[![Assistir à demonstração do Escala Eduardinho](assets/screenshots/video-capa.png)](LINK_DO_VIDEO)
+[![Assistir à demonstração do Escala Eduardinho](assets/screenshots/video-capa.jpeg)](https://github.com/user-attachments/assets/7c776671-5be6-4486-8473-41e40e34e5a6)
 
 ## Identidade visual
 
