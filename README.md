@@ -12,9 +12,27 @@ O Escala Eduardinho é um projeto de desenvolvimento de software que combina a i
 
 O diferencial é a inclusão da escala Eduardinho, com parâmetros próprios, integrada às escalas Celsius, Fahrenheit e Kelvin.
 
+## Demonstração da aplicação
+
+### Versão para computador
+
+![Escala Eduardinho no computador](assets/screenshots/desktop.png)
+
+### Versão para celular
+
+![Escala Eduardinho no celular](assets/screenshots/mobile.png)
+
+## Vídeo demonstrativo
+
+## Vídeo demonstrativo
+
+[![Assistir à demonstração do Escala Eduardinho](assets/screenshots/video-capa.png)](LINK_DO_VIDEO)
+
 ## Identidade visual
 
 O projeto conta com identidade visual própria, incluindo logo autoral desenvolvida pelo criador da escala Eduardinho, que representa o próprio Eduardinho.
+
+![Logo autoral da escala Eduardinho](assets/logo-eduardinho.png)
 
 ## Acesse o aplicativo
 
