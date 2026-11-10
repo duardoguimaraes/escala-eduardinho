@@ -1,3 +1,4 @@
+
 # Escala Eduardinho
 
 **Conversor de temperaturas entre as escalas Eduardinho, Celsius, Fahrenheit e Kelvin.**
@@ -20,20 +21,21 @@ O diferencial é a inclusão da escala Eduardinho, com parâmetros próprios, in
 
 ### Versão para celular
 
-![Escala Eduardinho no celular](assets/screenshots/mobile.jpeg)
+<img src="assets/screenshots/mobile.jpeg" alt="Escala Eduardinho no celular" width="300">
+
 ## Vídeo demonstrativo
 
 [**Assistir à demonstração do Escala Eduardinho**](https://github.com/user-attachments/assets/7c776671-5be6-4486-8473-41e40e34e5a6)
+
 ## Identidade visual
 
 O projeto conta com identidade visual própria, incluindo logo autoral desenvolvida pelo criador da escala Eduardinho, que representa o próprio Eduardinho.
 
 <div align="center">
   <img
-    src="assets/logo-eduardinho.png"
+    src="assets/logo-eduardinho-fundo-branco.png"
     alt="Logo autoral da escala Eduardinho"
     width="180"
-    style="background-color: #FFFFFF; padding: 16px; border-radius: 12px;"
   />
 </div>
 
